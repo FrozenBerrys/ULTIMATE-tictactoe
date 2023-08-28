@@ -5,12 +5,6 @@ pygame.init()
 screen = pygame.display.set_mode((540,540))
 pygame.display.set_caption('ULTIMATETICTACTOE')
 clock = pygame.time.Clock()
-
-largefont = pygame.font.Font("font.ttf", 50)
-font = pygame.font.Font("font.ttf", 35)
-smallfont = pygame.font.Font("font.ttf", 20)
-tinyfont = pygame.font.Font("font.ttf", 15)
-
 #####################################################################################
 #SPECIFIC RULES
 #If the previous player's small square's corresponding big square on the board has a finished game, 
