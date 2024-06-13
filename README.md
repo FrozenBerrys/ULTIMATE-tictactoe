@@ -1,5 +1,5 @@
 # Comments
-Least faulty game I've made so far. Probably final version
+Least faulty game I've COPIED so far. Probably final version
 
 
 # ULTIMATE-tictactoe RULES (from Wikipedia)
