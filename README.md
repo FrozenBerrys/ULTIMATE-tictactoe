@@ -1,6 +1,3 @@
-# Comments
-Least faulty game I've COPIED so far. Probably final version
-
 
 # ULTIMATE-tictactoe RULES (from Wikipedia)
 
